@@ -35,7 +35,7 @@ int main(void) {
 	
 	printf ("Total:%d, Med Col:%d\n",total,(int)(total * 0.2308));
 	printf ("Lanc:%d, Esp:%d\n",lanc,esp);
-	printf ("Real:%d\n",(lanc*25 + esp*15));
+	printf ("Real:%d\n\n",(lanc*25 + esp*15));
 
   //---------------------
 
@@ -54,7 +54,7 @@ int main(void) {
 	
 	printf ("Total:%d, Grd Col:%d\n",total,(int)(total * 0.1154));
 	printf ("Lanc:%d, Esp:%d\n",lanc,esp);
-	printf ("Real:%d\n",(lanc*25 + esp*15));
+	printf ("Real:%d\n\n",(lanc*25 + esp*15));
 	
 	return 0;
 }
